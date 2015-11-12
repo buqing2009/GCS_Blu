@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GCS_Blu</string>
+    <string name="main_act_name">Bluking</string>
 </resources>
